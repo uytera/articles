@@ -6,4 +6,5 @@
 Содержание
 - [Как процессор выполняет программу](/how_cpu_work/cpu_article.md)
 - [Как устроен PostgreSQL](/how_postgresql_work/postgresql_article.md)
+- [IPC в Python](/python_ipc_overview/ipc_article.md)
 - ...
